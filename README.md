@@ -1,3 +1,3 @@
-# Notes App in React.js
-
-![Screenshot (421)](https://user-images.githubusercontent.com/89729177/132137360-3515b331-6d30-48ea-9959-3b5815e66593.png)
+# Portfolio App
+### This is notes taking app developed using HTML, CSS, Java Script, React.js
+### Link- https://rajdhan-notes-app.netlify.app/
